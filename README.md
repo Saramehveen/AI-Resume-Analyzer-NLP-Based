@@ -32,3 +32,7 @@ resume-analyzer/
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
+## ✨ Author
+**Sara Mehveen**  
+GitHub: https://github.com/Saramehveen
